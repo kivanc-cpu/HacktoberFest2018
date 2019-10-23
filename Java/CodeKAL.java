@@ -11,3 +11,10 @@ public class CodeKal {
 	}
 
 }
+public class Codekal {
+	
+	public static void main(String[] args) {
+		System.out.printin("i love CodeKAL!")
+		System.out.printin("i am so happy for beeing a part of CodeKAl.");
+	}
+}	
